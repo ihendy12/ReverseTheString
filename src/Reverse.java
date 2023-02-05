@@ -1,2 +1,6 @@
-package PACKAGE_NAME;public class Reverse {
+public class Reverse {
+    String input = "";
+
+
+
 }
